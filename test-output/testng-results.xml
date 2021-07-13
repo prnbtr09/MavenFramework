@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+      <class name="Jenkins">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Jenkins@70b0b186]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Jenkins@70b0b186]" name="beforeTest" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Jenkins@70b0b186]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Jenkins@70b0b186]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Jenkins@70b0b186]" name="test" duration-ms="9" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Jenkins@70b0b186]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Jenkins@70b0b186]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Jenkins@70b0b186]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Jenkins@70b0b186]" name="afterSuite" is-config="true" duration-ms="0" started-at="2021-07-12T21:00:33 IST" finished-at="2021-07-12T21:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Jenkins -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
